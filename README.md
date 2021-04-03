@@ -9,10 +9,10 @@
 ### Subject: Banking Dataset - Marketing Targets (Data Science Prediction Study)
 
 
-    A banking train.csv and test.csv dataset (Version 2) was obtained on kaggle on Apr 1, 2021.
+A banking train.csv and test.csv dataset (Version 2) was obtained on kaggle on Apr 1, 2021.
 https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets
 
-    Through the implementation of machine learning algorithms, an optimal solution was derived to answer the classification goal of where a client will subscribe to a term deposit (variable y).
+Through the implementation of machine learning algorithms, an optimal solution was derived to answer the classification goal of where a client will subscribe to a term deposit (variable y).
 
 Detailed Column Descriptions
 bank client data:
@@ -55,7 +55,7 @@ other attributes:
 Output variable (desired target):
 17 - y - has the client subscribed a term deposit? (binary: "yes","no")
 
-    Additional specific on the context and content of this dataset is available on the provided kaggle link above.
+Additional specific on the context and content of this dataset is available on the provided kaggle link above.
     
 ### This machine learning data science project analysis concludes that the defined Decision Tree and Random Forest models yield a 98% predictive accuracy in answering the classification goal whether a client will subscribe to a term deposit (variable y).
 
