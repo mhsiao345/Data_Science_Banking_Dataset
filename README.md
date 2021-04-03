@@ -56,3 +56,7 @@ Output variable (desired target):
 17 - y - has the client subscribed a term deposit? (binary: "yes","no")
 
     Additional specific on the context and content of this dataset is available on the provided kaggle link above.
+    
+### This machine learning data science project analysis concludes that the defined Decision Tree and Random Forest models yield a 98% predictive accuracy in answering the classification goal whether a client will subscribe to a term deposit (variable y).
+
+### The results of this study is based off the supplied train and test datasets. Your results may vary with data that is atypical in comparison.
